@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end Jr`**
 
-## Olá, me chamo Danilo Ferreira! Sou formado em Produção Multimídia na UNIJORGE. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UCSAL. Sempre buscando aprender e também para compartilhar o meu conhecimento.
+## Olá, me chamo Danilo Ferreira! Sou formado em Produção Multimídia na UNIJORGE e formado em Análise e Desenvolvimento de Sistemas na UCSAL. Sempre buscando aprender e também para compartilhar o meu conhecimento.
 
 
 ### 🚀 Linguagens e Tecnologias
